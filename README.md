@@ -70,9 +70,8 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 - **CS Fundamentals:** Data Structures, OOPs, DBMS, Operating Systems
 
 ## 📫 Let's Connect!
-- 🔗 **LinkedIn:** [Your LinkedIn Here]
-- 📧 **Email:** [Your Email Here]
-- 🏗 **GitHub:** [Your GitHub Here]
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/hammad-khan-141818211/]
+- 📧 **Email:** [hammadkh241202@gmail.com]
 
 _I'm always open to learning and collaboration! If you have exciting ideas, let's build something innovative together! 🚀_
 
