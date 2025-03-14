@@ -27,10 +27,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 
 ## 🔥 Projects
 
-- **Course Recommendation System** *(Python, TensorFlow, Keras, Scikit-Learn, NLP)*
-  - Designed a recommendation system using deep learning techniques.
-  - Implemented collaborative filtering & neural network-based approaches.
-
 - **English-to-Italian Translation using Transformers** *(NLP, Transformers)*
   - Implemented a translation model using transformer architectures.
 
@@ -49,6 +45,10 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 - **Ultimate Vehicle Detection Solution** *(YOLOv5, Computer Vision, ML, Python)*
   - Developed real-time vehicle detection using YOLOv5s model.
   - Utilized PyTorch, TensorFlow, and Keras for implementation.
+  
+- **Course Recommendation System** *(Python, TensorFlow, Keras, Scikit-Learn, NLP)*
+  - Designed a recommendation system using deep learning techniques.
+  - Implemented collaborative filtering & neural network-based approaches.
 
 
 ## 📖 Learning & Goals
