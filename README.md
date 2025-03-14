@@ -6,9 +6,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 - **Natural Language Processing (NLP) & Transformers**
 - **Generative AI (Text-to-Image, Text-to-Music, VLMs, Diffusion Models)**
 - **Data Science & Machine Learning**
-- **Stock Market Prediction & Automated Trading**
-- **Human Psychology & Behavioral Analysis**
-- **Philosophy & Self-Improvement**
 
 ## 🎓 Education
 - **MS by Research in CSE** | **Indian Institute of Technology Bhubaneswar** *(2024-2026)* | CGPA: 8.0
