@@ -6,7 +6,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 - **Natural Language Processing (NLP) & Transformers**
 - **Generative AI (Text-to-Image, Text-to-Music, VLMs, Diffusion Models)**
 - **Data Science & Machine Learning**
-- **Web & App Development**
 - **Stock Market Prediction & Automated Trading**
 - **Human Psychology & Behavioral Analysis**
 - **Philosophy & Self-Improvement**
@@ -17,7 +16,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 
 ## 🔬 Research Work
 - **Modelling Personalized Book Recommendation using Hybrid Filtering (IEEE)**
-- **Does Attribute-Centric Learning Improve Crime Scene Description in Video Anomaly Detection? (CPVR submission under review)**
 
 ## 💼 Experience
 - **Teaching Assistant, IIT Bhubaneswar** *(July 2024 – Present)*
@@ -28,13 +26,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
   - Overcame technical challenges and adapted to dynamic project requirements.
 
 ## 🔥 Projects
-- **Text to Music Generation**
-  - Implemented LSTM, RNN, and NLP techniques for music generation.
-  - Utilized Python libraries: NumPy, Pandas, TensorFlow, Keras, cv2, NLTK.
-
-- **Ultimate Vehicle Detection Solution** *(YOLOv5, Computer Vision, ML, Python)*
-  - Developed real-time vehicle detection using YOLOv5s model.
-  - Utilized PyTorch, TensorFlow, and Keras for implementation.
 
 - **Course Recommendation System** *(Python, TensorFlow, Keras, Scikit-Learn, NLP)*
   - Designed a recommendation system using deep learning techniques.
@@ -51,12 +42,18 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 
 - **Book Recommendation System** *(Hybrid Filtering, AI, Recommendation Engines)*
   - Modeled a book recommendation system using hybrid filtering techniques.
+- **Text to Music Generation**
+  - Implemented LSTM, RNN, and NLP techniques for music generation.
+  - Utilized Python libraries: NumPy, Pandas, TensorFlow, Keras, cv2, NLTK.
+
+- **Ultimate Vehicle Detection Solution** *(YOLOv5, Computer Vision, ML, Python)*
+  - Developed real-time vehicle detection using YOLOv5s model.
+  - Utilized PyTorch, TensorFlow, and Keras for implementation.
+
 
 ## 📖 Learning & Goals
 - Studying **Transformers & Vision-Language Models**.
 - Working on **Generative AI** projects, including **Text-to-Image Generation**.
-- Enhancing my **discipline** and productivity through an **Early Bird schedule (11 PM - 5 AM)**.
-- Exploring **human behavior & self-improvement** through philosophy & psychology.
 - Researching **JUT 1st semester PYQs** for academic excellence.
 
 ## 🏆 Achievements & Certifications
