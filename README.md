@@ -48,24 +48,6 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
   - Implemented collaborative filtering & neural network-based approaches.
 
 
-## 📖 Learning & Goals
-- Studying **Transformers & Vision-Language Models**.
-- Working on **Generative AI** projects, including **Text-to-Image Generation**.
-- Researching **JUT 1st semester PYQs** for academic excellence.
-
-## 🏆 Achievements & Certifications
-- **AIR 951 GATE in Data Science & AI**
-- **Datathon@IndoML 2024**
-- **750+ DSA problems solved** on LeetCode, GFG, and other platforms.
-- **Certifications:** Triplebyte Certified, DSA using Python (NPTEL), Software Development Trainee (AMCAT), etc.
-
-## 💡 Skills & Interests
-- **Machine Learning, Deep Learning, Generative AI, Computer Vision, LLMs, VLMs**
-- **Programming Languages:** Python, C, SQL
-- **ML Techniques:** Regression, Classification, Association, Clustering, Boosting, CNN, RNN, LSTM
-- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch, Transformers
-- **CS Fundamentals:** Data Structures, OOPs, DBMS, Operating Systems
-
 ## 📫 Let's Connect!
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/hammad-khan-141818211/]
 - 📧 **Email:** [hammadkh241202@gmail.com]
