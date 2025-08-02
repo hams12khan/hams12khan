@@ -8,7 +8,7 @@ I'm a **Computer Science Researcher & Developer** with a strong passion for **Ma
 - **Data Science & Machine Learning**
 
 ## 🎓 Education
-- **MS by Research in CSE** | **Indian Institute of Technology Bhubaneswar** *(2024-2026)* | CGPA: 8.0
+- **MS by Research in CSE** | **Indian Institute of Technology Bhubaneswar** *(2024-2026)* | CGPA: 8.36
 - **B.Tech in CSE** | **Galgotia’s College of Engineering and Technology** *(2020-2024)* | CGPA: 8.48
 
 ## 🔬 Research Work
