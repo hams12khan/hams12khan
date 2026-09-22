@@ -70,47 +70,6 @@
 ### 🛡️ **Vehant Technologies — Research Intern** *(Security & Surveillance | Sep 2025 – Nov 2025)*
 * Built real-time Scene Change Detection (SCD) edge architectures and designed a zero-shot VLM pseudo-labeling pipeline for surveillance video processing.
 
----
-
-## 🛠️ Featured Open-Source Repositories & Systems
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ FACTDA Agent</h3>
-      <p>Training-free compile-and-execute DAG agent scaling to 16,000+ APIs with a fixed 2-LLM call budget, TDWA dense retriever, and Seeded ReAct continuation tail.</p>
-      <p align="center">
-        <a href="https://github.com/hams12khan"><b>View Code & Paper →</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👁️ LLCR Framework</h3>
-      <p>Dual-branch ViT-B/16 with Task-Aware Enhancer (TAE), learnable ISP inverse gamma/gain, and metric losses optimizing hyperspherical neighborhood purity under noise.</p>
-      <p align="center">
-        <a href="https://github.com/hams12khan"><b>View Code & Paper →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 End-to-End RLHF with PPO</h3>
-      <p>Complete 3-stage alignment engine (SFT → Reward Model → PPO) from scratch in PyTorch. Includes Bradley-Terry reward-centering regularizer (γ=0.01) to eliminate score-shift divergence.</p>
-      <p align="center">
-        <a href="https://github.com/hams12khan"><b>Explore Repo →</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 Modular Latent Diffusion</h3>
-      <p>From-scratch PyTorch implementation of Stable Diffusion: custom UNet, VAE, DDPM noise scheduler, and cross-attention conditioning modules.</p>
-      <p align="center">
-        <a href="https://github.com/hams12khan/Stable-Diffusion-From-Scratch-"><b>Explore Repo →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💻 Technical Arsenal
 
 * **Languages & Core:** Python, C++, C, SQL, Bash, LaTeX
